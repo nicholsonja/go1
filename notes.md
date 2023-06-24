@@ -41,6 +41,7 @@ We ran into issues due to the video missing a few key details. Here is our list 
 
 ## Development
 * Linux Ubuntu 18.04
+* Expecting Python3.  Ubuntu 18.04 sets /usr/bin/python to python2
 
 ### Setting up ubuntu_legged_sdk
 * Repository is https://github.com/unitreerobotics/unitree_legged_sdk
