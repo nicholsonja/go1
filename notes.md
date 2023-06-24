@@ -42,5 +42,9 @@ We ran into issues due to the video missing a few key details. Here is our list 
 ## Development
 * Linux Ubuntu 18.04
 
+### Setting up ubuntu_legged_sdk
+* Repository is https://github.com/unitreerobotics/unitree_legged_sdk
+* Also need to install messagepack : `sudo apt install libmsgpack-dev`
+
 ## TO DO
 * Setup a Ubuntu 18.04 ros_real_thing in the Unitree Respository
