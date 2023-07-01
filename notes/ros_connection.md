@@ -1,5 +1,7 @@
 # ROS Connection
 
+ssh into Go1 first
+
 On the VirutalBox type:
     `export ROS_IP=10.0.2.15`
     `export ROS_MASTER_URI=http://192.168.123.161:11311`
